@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1050133925599",
+    "project_id": "servemandu-c8218",
+    "storage_bucket": "servemandu-c8218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050133925599:android:9e42c0b50a8201f630636a",
+        "android_client_info": {
+          "package_name": "com.example.servemandu_sp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050133925599-k722a0nkkunnu92rcrvo0r3ssc58p3uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwrDHykdVBz7SyOafUOew_ofLu5NcR9sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050133925599-k722a0nkkunnu92rcrvo0r3ssc58p3uj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050133925599-3tgnhklajli70k6q4rc64tbshe6a0h4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fseller.vi78"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050133925599:android:d73182ee9262c41830636a",
+        "android_client_info": {
+          "package_name": "com.servemandu.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050133925599-k722a0nkkunnu92rcrvo0r3ssc58p3uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwrDHykdVBz7SyOafUOew_ofLu5NcR9sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050133925599-k722a0nkkunnu92rcrvo0r3ssc58p3uj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050133925599-3tgnhklajli70k6q4rc64tbshe6a0h4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fseller.vi78"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050133925599:android:1e1b5d2c9028c45f30636a",
+        "android_client_info": {
+          "package_name": "com.servemandu.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050133925599-k722a0nkkunnu92rcrvo0r3ssc58p3uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwrDHykdVBz7SyOafUOew_ofLu5NcR9sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050133925599-k722a0nkkunnu92rcrvo0r3ssc58p3uj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050133925599-3tgnhklajli70k6q4rc64tbshe6a0h4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fseller.vi78"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
