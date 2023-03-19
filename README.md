@@ -1,16 +1,3 @@
 # servemandu_sp_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is Servemandu Service Provider's App. It allows them to login & register them into the app. After which they can upload their required services they want to provide to the users with the detailed description of each. The backend of the app is provided by Firebase from Google Cloud Console.
